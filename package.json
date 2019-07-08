@@ -1,0 +1,19 @@
+{
+  "name": "sprites-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "del": "^5.0.0",
+    "gulp": "^4.0.2",
+    "gulp-if": "^2.0.2",
+    "gulp.spritesmith": "^6.10.1",
+    "sprity": "^1.0.8"
+  }
+}
